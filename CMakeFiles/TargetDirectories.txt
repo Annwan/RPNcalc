@@ -1,0 +1,7 @@
+/mnt/data/Code/RPNcalc/CMakeFiles/install/strip.dir
+/mnt/data/Code/RPNcalc/CMakeFiles/edit_cache.dir
+/mnt/data/Code/RPNcalc/CMakeFiles/rpncalc.dir
+/mnt/data/Code/RPNcalc/CMakeFiles/rebuild_cache.dir
+/mnt/data/Code/RPNcalc/CMakeFiles/list_install_components.dir
+/mnt/data/Code/RPNcalc/CMakeFiles/install/local.dir
+/mnt/data/Code/RPNcalc/CMakeFiles/install.dir

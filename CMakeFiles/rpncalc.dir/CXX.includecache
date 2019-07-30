@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/data/Code/RPNcalc/calculator.h
+list
+-
+cmath
+-
+
+/mnt/data/Code/RPNcalc/main.cpp
+iostream
+-
+calculator.h
+/mnt/data/Code/RPNcalc/calculator.h
+
