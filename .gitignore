@@ -34,3 +34,6 @@
 # Kdevelop Files
 
 *.kdev4
+# Cmake files
+cmake*
+Cmake*
